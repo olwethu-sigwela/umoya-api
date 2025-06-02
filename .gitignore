@@ -1,2 +1,4 @@
 __pycache__/
+prepaid_bundles.json
+contract_bundles.json
 .env
